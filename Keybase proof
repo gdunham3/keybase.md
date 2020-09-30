@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am gdunham3 on github.
+  * I am gdunham3 (https://keybase.io/gdunham3) on keybase.
+  * I have a public key ASC7hiT954pOHc3vVemgEHEPrxYm6CpKnZkKUzb1lnyK4wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bb8624fde78a4e1dcdef55e9a010710faf1626e82a4a9d990a5336f5967c8ae30a",
+      "host": "keybase.io",
+      "kid": "0120bb8624fde78a4e1dcdef55e9a010710faf1626e82a4a9d990a5336f5967c8ae30a",
+      "uid": "4f2015eaa3b2077785ba90eda19ec519",
+      "username": "gdunham3"
+    },
+    "merkle_root": {
+      "ctime": 1601496546,
+      "hash": "cbf9d7486dd9fd05ff35e78e2bf071b9509ab6ad9ee5cca067277ab3cf2ac9105738b962cc1841f296bf2eb10999c46aeb3605f46784ace0dcb1e947a7a6f3f6",
+      "hash_meta": "3730d1ddc4364939b46e68e3a40f4d7606cf469caf3204ebd3bf1e83412c0821",
+      "seqno": 17714038
+    },
+    "service": {
+      "entropy": "OnpueW1wRPBItYKNjw82zQq5",
+      "name": "github",
+      "username": "gdunham3"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1601496563,
+  "expire_in": 504576000,
+  "prev": "3e3e51814d19d1a169208d43d1fdc39a7bf36780f45df203933d581d06fc7a77",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASC7hiT954pOHc3vVemgEHEPrxYm6CpKnZkKUzb1lnyK4wo](https://keybase.io/gdunham3), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu4Yk/eeKTh3N71XpoBBxD68WJugqSp2ZClM29ZZ8iuMKp3BheWxvYWTESpcCBsQgPj5RgU0Z0aFpII1D0f3DmnvzZ4D0XfIDkz1YHQb8enfEICo4lux5G4LGXUcbdUaOkKbYXJxqsCqmUNbemHG0+LraAgHCo3NpZ8RASRnabVAD+B8tzW9SfPpJQmFiaoeLQ2IpyxA5u7Aj44uVVI5uy64ZoWWMQXjfc2dQigrjAaF8CIUntvMNoajWAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFA5GZo60RuXG1o76TRxHwYemWi+DFcYYGOablUVqgRPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/gdunham3
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id gdunham3
+```
